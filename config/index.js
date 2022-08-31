@@ -10,7 +10,7 @@ export const config = {
     APP_SECRET: "afc54869274a5a0502ca72c9ef4f1f00",
 
     // 模板消息id
-    TEMPLATE_ID: "I6bnRtL7WJvRpz0L57vKJsbLpstLYCwxa9CsDDzgFYo",
+    TEMPLATE_ID: "o-cRzq_-zVlegIrYFJBsY_3PpULDvATCJxvsO4TIkx8",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     CALLBACK_TEMPLATE_ID: "xxxxxxxxxxxxx-y你懂的,填错狗头打烂VRMpu",
@@ -78,8 +78,6 @@ export const config = {
 // 天气：{{weather.DATA}}  
 // 最低气温: {{min_temperature.DATA}}  
 // 最高气温: {{max_temperature.DATA}}  
-// 今天是我们恋爱的第{{love_day.DATA}}天
-// 今天是我们结婚的第{{marry_day.DATA}}天
 // {{birthday_message.DATA}}
 
 // {{note_en.DATA}}  
